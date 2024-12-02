@@ -1,0 +1,19 @@
+C:\Users\trant\Máy tính\ChatAppForm\bin\Debug\ChatAppForm.exe.config
+C:\Users\trant\Máy tính\ChatAppForm\bin\Debug\ChatAppForm.exe
+C:\Users\trant\Máy tính\ChatAppForm\bin\Debug\ChatAppForm.pdb
+C:\Users\trant\Máy tính\ChatAppForm\obj\Debug\ChatAppForm.csproj.AssemblyReference.cache
+C:\Users\trant\Máy tính\ChatAppForm\obj\Debug\ChatAppForm.Properties.Resources.resources
+C:\Users\trant\Máy tính\ChatAppForm\obj\Debug\ChatAppForm.csproj.GenerateResource.cache
+C:\Users\trant\Máy tính\ChatAppForm\obj\Debug\ChatAppForm.csproj.CoreCompileInputs.cache
+C:\Users\trant\Máy tính\ChatAppForm\obj\Debug\ChatAppForm.exe
+C:\Users\trant\Máy tính\ChatAppForm\obj\Debug\ChatAppForm.pdb
+C:\Users\admin\Documents\Zalo Received Files\ChatAppForm\bin\Debug\ChatAppForm.exe.config
+C:\Users\admin\Documents\Zalo Received Files\ChatAppForm\bin\Debug\ChatAppForm.exe
+C:\Users\admin\Documents\Zalo Received Files\ChatAppForm\bin\Debug\ChatAppForm.pdb
+C:\Users\admin\Documents\Zalo Received Files\ChatAppForm\obj\Debug\ChatAppForm.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Zalo Received Files\ChatAppForm\obj\Debug\ChatAppForm.Form1.resources
+C:\Users\admin\Documents\Zalo Received Files\ChatAppForm\obj\Debug\ChatAppForm.Properties.Resources.resources
+C:\Users\admin\Documents\Zalo Received Files\ChatAppForm\obj\Debug\ChatAppForm.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Zalo Received Files\ChatAppForm\obj\Debug\ChatAppForm.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Zalo Received Files\ChatAppForm\obj\Debug\ChatAppForm.exe
+C:\Users\admin\Documents\Zalo Received Files\ChatAppForm\obj\Debug\ChatAppForm.pdb

@@ -1,0 +1,14 @@
+C:\Users\trant\Máy tính\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\trant\Máy tính\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\trant\Máy tính\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\trant\Máy tính\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\trant\Máy tính\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\trant\Máy tính\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\trant\Máy tính\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\admin\Documents\Zalo Received Files\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\admin\Documents\Zalo Received Files\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\admin\Documents\Zalo Received Files\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\admin\Documents\Zalo Received Files\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Zalo Received Files\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Zalo Received Files\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\admin\Documents\Zalo Received Files\ChatClient\obj\Debug\ChatClient.pdb

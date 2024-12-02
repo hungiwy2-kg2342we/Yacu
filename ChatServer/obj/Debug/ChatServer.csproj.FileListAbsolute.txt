@@ -1,0 +1,7 @@
+C:\Users\trant\Máy tính\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\trant\Máy tính\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\trant\Máy tính\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\trant\Máy tính\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\trant\Máy tính\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\trant\Máy tính\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\trant\Máy tính\ChatServer\obj\Debug\ChatServer.pdb
